@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    [
+    {
+    "id": 1,
+    "title": "The Witcher 3: Wild Hunt",
+    "genre": "Action RPG",
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+    "developer": {
+    "name": "CD Projekt Red",
+    "country": "Poland"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=1"
+    },
+    {
+    "id": 2,
+    "title": "Red Dead Redemption 2",
+    "genre": "Action-Adventure",
+    "platforms": ["PlayStation 4", "Xbox One", "PC", "Google Stadia"],
+    "developer": {
+    "name": "Rockstar Games",
+    "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=2"
+    },
+    {
+    "id": 3,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "genre": "Action-Adventure",
+    "platforms": ["Nintendo Switch", "Wii U"],
+    "developer": {
+    "name": "Nintendo EPD",
+    "country": "Japan"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=3"
+    },
+    {
+    "id": 4,
+    "title": "God of War",
+    "genre": "Action-Adventure",
+    "platforms": ["PlayStation 4", "PlayStation 5"],
+    "developer": {
+    "name": "Santa Monica Studio",
+    "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=4"
+    },
+    {
+    "id": 5,
+    "title": "Fortnite",
+    "genre": "Battle Royale",
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Android", "iOS"],
+    "developer": {
+    "name": "Epic Games",
+    "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=5"
+    },
+    {
+    "id": 6,
+    "title": "Overwatch",
+    "genre": "First-person Shooter",
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+    "developer": {
+    "name": "Blizzard Entertainment",
+    "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=6"
+    },
+    {
+    "id": 7,
+    "title": "Minecraft",
+    "genre": "Sandbox, Survival",
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Android", "iOS"],
+    "developer": {
+    "name": "Mojang Studios",
+    "country": "Sweden"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=7"
+    },
+    {
+    "id": 8,
+    "title": "Among Us",
+    "genre": "Social Deduction",
+    "platforms": ["PC", "Android", "iOS"],
+    "developer": {
+    "name": "Innersloth",
+    "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=8"
+    },
+    {
+    "id": 9,
+    "title": "League of Legends",
+    "genre": "MOBA",
+    "platforms": ["PC"],
+    "developer": {
+    "name": "Riot Games",
+    "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=9"
+    },
+    {
+    "id": 10,
+    "title": "Counter-Strike: Global Offensive",
+    "genre": "First-person Shooter",
+    "platforms": ["PC", "PlayStation 3", "Xbox 360"],
+    "developer": {
+    "name": "Valve Corporation",
+    "country": "United States"
+    },
+    "images": "https://loremflickr.com/320/240/cars?lock=10"
+    }
+    ]
+
+</resources>
